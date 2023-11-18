@@ -1,0 +1,118 @@
+{
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 22,
+    "material-ui-snippets.showNotesOnStartup": false,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.fontFamily": "Cascadia Code, fira code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 3,
+    "editor.formatOnSave": true,
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.linkedEditing": true,
+    "chatgpt.gpt3.apiKey": "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",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.userWords": [
+      "ADDCOUNTER",
+      "ADDEDTOCART",
+      "ADDNEWBOOK",
+      "ADDPRODUCT",
+      "ADDTOCART",
+      "Ahsan",
+      "allcompleted",
+      "Ashi",
+      "Awal",
+      "Banani",
+      "Bookauthor",
+      "Bookfeatured",
+      "Bookname",
+      "Bookprice",
+      "Bookrating",
+      "Bookthumbnail",
+      "Caeleb",
+      "clearcompleted",
+      "colorchanged",
+      "colorselected",
+      "CUSTOMERREFUND",
+      "DDECREMENT",
+      "DELETEBOOK",
+      "DELETEFROMCART",
+      "DINCREMENT",
+      "Dressel",
+      "EDITBOOK",
+      "embla",
+      "FETCHBOOK",
+      "HELPCENTER",
+      "Ibos's",
+      "Ibrahimpur",
+      "Iconify",
+      "inputform",
+      "lightbox",
+      "MERN",
+      "middlewares",
+      "Muhammdad",
+      "Nurul",
+      "PRODUCTREPORTS",
+      "REFUNDDATA",
+      "Rifat",
+      "Saidpur",
+      "SEARCHBOOK",
+      "STATUSCHANGED",
+      "Sumit",
+      "Swal",
+      "sweetalert",
+      "Sylhet",
+      "tailwindcss",
+      "todos",
+      "Tood",
+      "toods",
+      "UPDATEBOOK"
+    ],
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": true,
+      "markdown": true,
+      "scminput": false,
+      "yaml": false,
+      "javascript": true,
+      "mjml": true,
+      "html": true,
+      "typescript": true
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[mjml]": {
+      "editor.defaultFormatter": "attilabuti.vscode-mjml"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "extensions.ignoreRecommendations": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.productIconTheme": "fluent-icons",
+    "files.autoSave": "afterDelay"
+  }
+  
